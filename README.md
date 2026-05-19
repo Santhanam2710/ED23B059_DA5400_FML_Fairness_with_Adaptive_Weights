@@ -1,4 +1,4 @@
-# Fairness with Adaptive Weights
+# ED23B059 - DA5400 - Foundations of Machine Learning - Assignment - Fairness with Adaptive Weights
 
 > A reproducible implementation of **Chai & Wang (ICML 2022) — *Fairness with Adaptive Weights*** on the **Adult Income** (UCI #2) and **German Credit** (UCI #144) classification tasks.
 
