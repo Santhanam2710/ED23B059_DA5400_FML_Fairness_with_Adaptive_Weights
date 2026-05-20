@@ -1,15 +1,15 @@
-# Fairness with Adaptive Weights
+# ED23B059 - DA5400 - Foundations of Machine Learning - Assignment - Fairness with Adaptive Weights
 
 > A reproducible implementation of **Chai & Wang (ICML 2022) — *Fairness with Adaptive Weights*** on the **Adult Income** (UCI #2) and **German Credit** (UCI #144) classification tasks.
 
 This repository accompanies a course-project reproduction of the paper. It provides (i) a clean re-implementation of the closed-form per-subgroup weight solver (Theorem 3.1) and the iterative training procedure (Algorithm 1), (ii) three pre-wired empirical studies — a main 4-method comparison, an α-sensitivity sweep, and a group-dependent label-noise robustness analysis — and (iii) a fully environment-variable–driven CLI so every figure and table in the report can be regenerated from a single command.
 
-**Author.** Santa, IIT Madras (ED23B059) — Foundations of Machine Learning (DA5400) bonus assignment.
+**Author.** Santhana Krishnan A, ED23B059, Department of Engineering Design, IIT Madras — DA5400 - Foundations of Machine Learning - Bonus Assignment.
 
 **Paper.** Junyi Chai, Xiaoqian Wang. *"Fairness with Adaptive Weights."* ICML 2022.  
 [[Paper link]](https://proceedings.mlr.press/v162/chai22a.html)
 
-**Video presentation.** `[Add your video link here]`
+**Video presentation.** `https://drive.google.com/drive/folders/1dzPYpwKycT59T6D7kS6RAP-YniY_aMl3?usp=sharing`
 
 ---
 
